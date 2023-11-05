@@ -4,7 +4,6 @@ import scipy.sparse as sparse
 from scipy.integrate import quad
 from numpy.polynomial import Legendre as Leg
 from numpy.polynomial import Chebyshev as Cheb
-import matplotlib.pyplot as plt
 
 x = sp.Symbol("x")
 # h = sp.Symbol("h")
