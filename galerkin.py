@@ -558,3 +558,4 @@ if __name__ == "__main__":
     test_project()
     test_convection_diffusion()
     test_helmholtz()
+    print("Done!")
